@@ -1,10 +1,9 @@
-# 👋 Hi there, I'm Sem Sethy!
+# 👋 Hi there, I'm Sethy!
 - 👀 I’m interested in iOS Development
 - 🌱 I’m currently learning SwiftUI
-- 🎓 Final-year Computer Science student at RUPP  
+- 🎓 Fresh Graduated Computer Science student at RUPP  
 - 📱 Junior iOS Developer | Graduate of Aditi Academy's iOS App Development Program  
 - 🚀 Passionate about building beautiful and functional iOS apps using Swift, UIKit, and SwiftUI  
-- 🔍 Actively looking for an internship or junior iOS developer role starting **after 27 May 2025**
 
 ---
 
