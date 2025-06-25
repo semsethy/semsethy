@@ -9,16 +9,16 @@
 
 ## 🔧 Skills & Technologies
 
-- **Languages**: Swift, SwiftUI, Laravel, PHP  
-- **Frameworks**: UIKit, Combine, Core Data, Firebase, Swift Package Manager  
-- **Tools**: Xcode, Git, Figma, Postman, CocoaPods  
+- **Languages**: Swift, PHP  
+- **Frameworks**: UIKit,SwiftUI,Laravel, Combine, Core Data, Firebase, Swift Package Manager  
+- **Tools**: Xcode, Git, Postman, CocoaPods, Docker
 - **Others**: REST APIs, Firebase Authentication, Firestore, Realtime Database, Storage, Notifications, MVVM, MVC
 
 ---
 
 ## 📱 Recent Projects
 
-### 🍽️ Ecommerce App  
+### Ecommerce App  
 A full-featured e-commerce that lets users:
 - Explore products and categories
 - Add product to shopping cart and wish list  
@@ -27,7 +27,7 @@ enable dark mode
 
 Tech stack: **Swift, SwiftUI, Laravel, PHP, MySQL, API**
 
-### 🍽️ Meal Preparing App  
+### Meal Preparing App  
 A full-featured food planner that lets users:
 - Explore food recipes  
 - Schedule meals daily & weekly  
@@ -38,7 +38,7 @@ A full-featured food planner that lets users:
 Tech stack: **Swift, UIKit, Core Data, Firebase**
 
 ### 📷 Share Extension for iOS  
-An extension to share photos from the photo library directly into the app to create recipes.
+An extension to share Shopping List (ingredients list) from the our app directly into other app(like: Telegram, Messenger, Note).
 
 ---
 
