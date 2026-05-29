@@ -2,7 +2,7 @@
 - 👀 I’m interested in iOS Development
 - 🌱 I’m currently learning SwiftUI
 - 🎓 Fresh Graduated Computer Science student at RUPP  
-- 📱 Junior iOS Developer | Graduate of Aditi Academy's iOS App Development Program  
+- 📱 iOS Developer | Graduate of Aditi Academy's iOS App Development Program  
 - 🚀 Passionate about building beautiful and functional iOS apps using Swift, UIKit, and SwiftUI  
 
 ---
